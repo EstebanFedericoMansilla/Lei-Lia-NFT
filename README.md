@@ -13,7 +13,7 @@ This NFT contains the final render, sample images of the project, project files 
 This NFT contains the final render, sample images of the project, project files in the Blend format, belonging to the Blender Software, plus intellectual property licenses, in charge of the new owner of the NFT. Its commercial use for advertising, animated series or 3D movies is subject to the permissions granted by the new owner of the NFT.
 Once the NFT is purchased, it will be shared with the buyer through the repository where it is hosted. To do this, the buyer must create an account on GitHub.com and receive the repository, and can choose to make it public or private.
 The NFT link and the final render can be sold to collectors or companies that wish to obtain it; To make the sale, it can be done from GitHub.com or by sharing the repository on a CD, pendrive or, relocated to the different NFT purchase and sales platforms.  
-The age and transfer records of this NFT are recorded in the GitHub.com data platform
+The age and transfer records of this NFT are recorded in the GitHub.com data platform.
 
 
 
