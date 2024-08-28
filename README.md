@@ -15,28 +15,5 @@ Once the NFT is purchased, it will be shared with the buyer through the reposito
 The NFT link and the final render can be sold to collectors or companies that wish to obtain it; To make the sale, it can be done from GitHub.com or by sharing the repository on a CD, pendrive or, relocated to the different NFT purchase and sales platforms.  
 The age and transfer records of this NFT are recorded in the GitHub.com data platform.
 
-{
-  "name": "nft-landing-page",
-  "version": "1.1.0",
-  "description": "This repo is a work-in-progress and pairs with the Mint 10k NFT project.",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/codeSTACKr/nft-landing-page.git"
-  },
-  "keywords": [],
-  "author": "Jesse Hall (codeSTACKr)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codeSTACKr/nft-landing-page/issues"
-  },
-  "homepage": "https://github.com/codeSTACKr/nft-landing-page#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.7"
-  }
-}
- 
+
 
