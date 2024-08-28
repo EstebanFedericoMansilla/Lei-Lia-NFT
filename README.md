@@ -15,5 +15,9 @@ Once the NFT is purchased, it will be shared with the buyer through the reposito
 The NFT link and the final render can be sold to collectors or companies that wish to obtain it; To make the sale, it can be done from GitHub.com or by sharing the repository on a CD, pendrive or, relocated to the different NFT purchase and sales platforms.  
 The age and transfer records of this NFT are recorded in the GitHub.com data platform.
 
-
+<script src="https://cdn.jsdelivr.net/npm/@metamask/onboarding@1.0.1/dist/metamask-onboarding.bundle.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
 
